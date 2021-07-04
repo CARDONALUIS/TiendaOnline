@@ -1,0 +1,10 @@
+-Ingenieria en computacion
+-Generacion 2016
+-Tecnologias Web
+-2019-2020/1
+-Luis Eduardo Cardona Becerra
+-Usuario BD: root ( mysqli_connect("localhost", "root", "", "proyecto2");  )
+-Pwd BD: ""
+-Usuario Admi:chino
+-Pwd Admi:123
+
